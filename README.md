@@ -7,7 +7,7 @@ Amacım; veri analizi, raporlama ve sorgu optimizasyonu konularında kendimi gel
 
 Gerçekçi bir e-ticaret veritabanı yapısı
 
-Satış, müşteri, sipariş, ürün ve ödeme analizleri
+Satış, müşteri, sipariş,, ürün ve ödeme analizleri
 
 🔗 Veritabanı Dosyası
 E-ticaret veritabanı dosyasına aşağıdaki linkten ulaşabilirsiniz:
